@@ -8,6 +8,5 @@
         <li><a href="https://github.com/MaggiePN92/first_lstm/blob/master/tekstanalyse.ipynb">LSTM (Work in progress)</a>
         <li><a href="https://github.com/MaggiePN92/Fashion-MNIST">A CNN for image classification on MNIST dataset</a>
         <li><a href="https://github.com/MaggiePN92/NorwegianBERT/blob/main/NB_BERT_PyTorch.ipynb">Norwegian BERT</a>
-        <li>
     </ul>
 </p>
